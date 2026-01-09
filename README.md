@@ -23,3 +23,24 @@ https://public.tableau.com/views/elements_17670363764070/Dashboard2?:language=en
 
 The dashboard compares calendar-based and solar-ecliptic aggregations
 across countries and years.
+
+## Data sources
+England and Wales https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18
+
+Denmark
+https://www.statbank.dk/
+
+USA
+https://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/
+
+France
+https://www.insee.fr/fr/statistiques/8582123?sommaire=8582147
+
+Netherlands
+https://opendata.cbs.nl/#/CBS/nl/dataset/70703ned/table?searchKeywords=keyword:geboorten
+
+Malaysia
+https://data.gov.my/data-catalogue/births?utm_source=chatgpt.com
+
+Switzerland
+https://www.bfs.admin.ch/bfs/en/home/statistics/population/births-deaths/births.assetdetail.35607811.html
