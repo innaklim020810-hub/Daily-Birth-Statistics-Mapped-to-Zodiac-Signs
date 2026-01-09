@@ -44,3 +44,18 @@ https://data.gov.my/data-catalogue/births?utm_source=chatgpt.com
 
 Switzerland
 https://www.bfs.admin.ch/bfs/en/home/statistics/population/births-deaths/births.assetdetail.35607811.html
+
+## Call for data
+
+This project relies on official daily birth statistics.
+At present, such data are publicly available only for a limited number of countries.
+
+If you are aware of national statistical offices, research institutes, or open-access sources
+that publish daily birth counts for other countries, or if you can facilitate access to such data,
+your help would be greatly appreciated.
+
+Please feel free to:
+- open an Issue in this repository, or
+- contact me via GitHub.
+
+Contributions of data sources, links, or guidance are welcome.
