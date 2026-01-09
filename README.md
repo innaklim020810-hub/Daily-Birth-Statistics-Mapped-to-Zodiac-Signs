@@ -7,3 +7,8 @@ Goal: Compare daily births aggregation in (a) calendar time and (b) solar-eclipt
 Key idea: The same daily birth series can be regrouped by equal solar-longitude segments (e.g., 12×30°) instead of calendar months. This repository documents the pipeline and provides reproducible analysis.
 
 Disclaimer: This is a statistical/methodological observation and does not claim causal mechanisms.
+## Data availability
+
+Raw and processed daily birth datasets are hosted on Kaggle due to size and licensing constraints.
+
+Kaggle dataset:https://www.kaggle.com/datasets/innaklymenko/daily-birth-statistics-mapped-to-zodiac-signs
