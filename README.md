@@ -23,6 +23,8 @@ https://public.tableau.com/views/elements_17670363764070/Dashboard2?:language=en
 
 The dashboard compares calendar-based and solar-ecliptic aggregations
 across countries and years.
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
 
 ## Data sources
 England and Wales https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18
